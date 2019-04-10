@@ -1,0 +1,51 @@
+	body{
+		font-family:"Quicksand";
+		color: red;
+		margin:0;
+			}
+			H1{
+				font-size:52px;
+			}
+			p{
+				font-size:20px;
+			}
+			#first-paragraph{
+				text-shadow:2px 2px 8px grey;
+			}
+			#second{
+				font-size:5px;
+			}
+			#header{
+				height:800px;width:100%;
+				padding:10px;
+				background-image: linear-gradient( 109.6deg,  rgba(0,193,228,1) 11.2%, rgba(0,131,155,1) 74.7% );			
+			}
+			#nbar{
+				list-style: none;
+				background-color:lime;
+				padding:9px;
+			}
+			#nbar li{
+				display:inline-block;
+				margin-right:90px;
+				cursor:pointer;
+			}
+			#nbar li:hover{
+					color:black;
+			}
+			.card{
+			    width: 267px;
+			    height: 330px;
+			    box-shadow: 2px 2px 5px black;
+			    padding: 20px;
+			    margin:30px;		
+			}
+			#space{
+				margin-bottom:10px;
+			}
+			#img{
+				transition:all 500ms ease-in;
+			}
+			#img:hover{
+				filter: grayscale(100%);
+			}
