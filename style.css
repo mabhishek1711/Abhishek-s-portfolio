@@ -38,7 +38,8 @@
 			    height: 330px;
 			    box-shadow: 2px 2px 5px black;
 			    padding: 20px;
-			    margin:30px;		
+			    margin:30px;
+			    display:inline-block;		
 			}
 			#space{
 				margin-bottom:10px;
